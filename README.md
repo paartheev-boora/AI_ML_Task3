@@ -7,7 +7,7 @@ Predicting house prices is a classic data science problem that helps us understa
 
 ## 📊 Dataset Overview
 
-We use the `Housing.csv` dataset, containing **545 rows** and **13 features**, including:
+Used the `Housing.csv` dataset, containing **545 rows** and **13 features**, including:
 
 - **Numerical features**: `price`, `area`, `bedrooms`, `bathrooms`, `stories`, `parking`.
 - **Categorical features**: `mainroad`, `guestroom`, `basement`, `hotwaterheating`, `airconditioning`, `prefarea`, `furnishingstatus`.
@@ -134,8 +134,8 @@ This project is open-source under the MIT License—feel free to use, modify, an
 
 ## 👩‍💻 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn/GitHub](https://your-profile-url)
+Boora Partheev  
+📧 partheevboora@gmail.com  
+🔗 https://github.com/paartheev-boora
 
 ---
